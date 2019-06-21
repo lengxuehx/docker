@@ -1,1 +1,1 @@
-vagrant confing can base image
+vagrant configs
