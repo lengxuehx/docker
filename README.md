@@ -1,1 +1,1 @@
-# docker
+vagrant confing can base image
